@@ -1,6 +1,10 @@
 # Fms
-financial management system, Java GUI, Windows application
-##Absetact
+Financial management system, Java GUI, Windows application
+###Absetact
+
+The discussion of the system is based on C/S (Client/Server user-defined Structs) architecture, use Java language and realize GUI framework of software systems. System set up account management, savings, credit management, daily balance of payments and financial analysis of the five function module.
+###Some Code
+
 ```Java
 try {
 	image = ImageIO.read(new File("res/pic/main_bg.jpg"));

@@ -27,3 +27,6 @@ frame.addMouseMotionListener(new MouseMotionAdapter() {
 		frame.setLocation(p.x + e.getX() - origin.x, p.y + e.getY() - origin.y);
 	}
 });
+
+ ##Screen shot
+ ![demo](/img/screenshot.png)

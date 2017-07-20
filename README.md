@@ -30,3 +30,6 @@ frame.addMouseMotionListener(new MouseMotionAdapter() {
 ```
 ## Screen shot
 ![demo](/img/screenshot.png)
+
+## One more thing
+Import Access_JDBC30.jar and hibernate3.jar first!

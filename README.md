@@ -29,4 +29,4 @@ frame.addMouseMotionListener(new MouseMotionAdapter() {
 });
 
  ##Screen shot
- ![demo](/img/screenshot.png)
+ ![demo](img/screenshot.png)
